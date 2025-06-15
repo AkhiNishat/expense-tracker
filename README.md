@@ -1,5 +1,12 @@
 # Expense Tracker (Vanilla JavaScript)
 
+
+Name: Nishat Sadia Akhi
+ID: 231-134-010
+
+
+
+
 A simple project to track income and expenses.
 
 ## 🔧 Features
